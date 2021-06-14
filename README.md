@@ -1,2 +1,2 @@
-# FMS
-Fish Farm Management System in Django
+#AAS
+AGRICULTURE and AQUACULTURE Systems
